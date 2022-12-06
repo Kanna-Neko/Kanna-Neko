@@ -7,7 +7,6 @@
 * c with stl
 * golang
 * html/css/javascript
-* python(beginning)
 
 ## links:
 * luogu: https://www.luogu.com.cn/user/356390
