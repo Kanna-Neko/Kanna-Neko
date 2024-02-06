@@ -7,7 +7,3 @@
 * c with stl
 * golang
 * html/css/javascript
-
-## links:
-* luogu: https://www.luogu.com.cn/user/356390
-* codeforces: https://codeforces.com/profile/jaxleof
