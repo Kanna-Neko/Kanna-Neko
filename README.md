@@ -7,6 +7,6 @@
 * c with stl
 * golang
 * rust
-* html/css/javascript/react
+* html/css/javascript/react/next
 * mysql/mongodb/redis/kafka
 * docker/consul/etcd
