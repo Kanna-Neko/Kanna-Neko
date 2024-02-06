@@ -6,4 +6,5 @@
 ## skill:
 * c with stl
 * golang
-* html/css/javascript
+* rust
+* html/css/javascript/react
