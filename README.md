@@ -4,9 +4,8 @@
 * google
 
 ## skill:
-* c with stl
-* golang
-* rust
-* html/css/javascript/react/next
-* mysql/mongodb/redis/kafka
-* docker/consul/etcd
+* c**
+* go**
+* ru**
+* h**l/cs*/java******/re***/n**t
+* my***/mon****/re***/ka***
