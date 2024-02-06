@@ -8,3 +8,4 @@
 * golang
 * rust
 * html/css/javascript/react
+* mysql/mongodb/redis/kafka
