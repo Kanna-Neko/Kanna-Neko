@@ -2,7 +2,7 @@ Nice to see you here, how are you today.
 ---
 
 
-[![Kanna-Neko's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kanna-Neko&count_private=true&include_all_commits=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Kanna-Neko's GitHub stats](github-readme-stats-beige-xi-60.vercel.app/api?username=Kanna-Neko&count_private=true&include_all_commits=true)](https://github.com/anuraghazra/github-readme-stats)
 
 ###### Something I like
 ![](https://github.com/Kanna-Neko/cf-stats/blob/main/output/light_card.svg)
